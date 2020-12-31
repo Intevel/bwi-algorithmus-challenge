@@ -9,7 +9,7 @@
   <h3 align="center">BWI ALGORITHMUS CHALLENGE</h3>
 
   <p align="center">
-    This is my project for the BWI Coding Challenge, it is an algorithm that generates a transport plan with the highest utility!
+    This is my project for the BWI Coding Challenge, it is an algorithm that generates a transport plan with the highest utility value.
     <br />
     <a href="https://www.get-in-it.de/coding-challenge?utm_source=magazin&utm_campaign=coding-challenge&utm_content=code-and-win"><strong>Link to the Challenge<strong></a>
     <br />
@@ -27,13 +27,32 @@
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/Intevel/BWI-Coding-Challenge.git
+   git clone https://github.com/Intevel/bwi-algorithmus-challenge.git
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
 </p>
+
+<h3 align="center">Usage</h3>
+<p align="center">
+
+1. Navigate to the "src" directory
+   ```sh
+   cd src
+   ```
+
+2. Start application
+   ```sh
+   node index.js
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+</p>
+
 
 
 <h3 align="center">License</h3>
