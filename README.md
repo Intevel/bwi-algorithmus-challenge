@@ -16,11 +16,11 @@
   </p>
 </p>
 
-<h3 align="center">About the project</h3>
+<h2 align="center">About the project</h3>
 
 <p align="center"> So it's actually just an algorithm that loads products / devices and transporters information from a JSON file. Each of these devices has a number, weight, and utility value. Each transporter has a weight limit of 1100kg, not including the weight of the driver. Two transporters are specified, but this can be expanded by adding more transporters to the JSON file. This algorithm creates a transport plan for each transporter, which is tailored to the weight and has the highest utility value.</p>
 
-<h3 align="center">Installation</h3>
+<h2 align="center">Installation</h3>
 <p align="center">
 
 1. Install [NodeJS](https://nodejs.org/en/download/) if it is not already installed
@@ -35,7 +35,7 @@
    ```
 </p>
 
-<h3 align="center">Usage</h3>
+<h2 align="center">Usage</h3>
 <p align="center">
 
 1. Navigate to the "src" directory
@@ -55,6 +55,6 @@
 
 
 
-<h3 align="center">License</h3>
+<h2 align="center">License</h3>
 
 Distributed under the MIT License. See `LICENSE` for more information.
