@@ -1,0 +1,26 @@
+
+
+Truck: Transporter 2
+Additional Load without driver: 1013.614KG
+Load remaining: 0.686KG
+Score: 17205
+
+name               amount  value  weight
+----------------------------------------
+notebooks14        75      35     2978  
+notebooks13        205     40     2451  
+notebookOutdoor    79      80     3625  
+mobilTelefonBuero  2       30     717   
+
+
+Truck: Transporter 2
+Additional Load without driver: 1013.614KG
+Value: 17205
+Remaining Space: 0.686KG
+
+name               amount  value  weight
+----------------------------------------
+notebooks14        75      35     2978  
+notebooks13        205     40     2451  
+notebookOutdoor    79      80     3625  
+mobilTelefonBuero  2       30     717   

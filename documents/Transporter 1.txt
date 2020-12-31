@@ -1,0 +1,20 @@
+
+
+Truck: Transporter 1
+Additional Load without driver: 1027.41KG
+Load remaining: 0.19KG
+Score: 12075
+
+name         amount  value  weight
+----------------------------------
+notebooks14  345     35     2978  
+
+
+Truck: Transporter 1
+Additional Load without driver: 1027.41KG
+Value: 12075
+Remaining Space: 0.19KG
+
+name         amount  value  weight
+----------------------------------
+notebooks14  345     35     2978  

@@ -1,0 +1,63 @@
+{
+	"products": [{
+		"name": "notebooks14",
+		"amount": 420,
+		"value": 35,
+		"weight": 2978
+	}, {
+		"name": "notebooks13",
+		"amount": 205,
+		"value": 40,
+		"weight": 2451
+	}, {
+		"name": "notebookOutdoor",
+		"amount": 450,
+		"value": 80,
+		"weight": 3625
+	}, {
+		"name": "mobilTelefonBuero",
+		"amount": 60,
+		"value": 30,
+		"weight": 717
+	}, {
+		"name": "mobilTelefonOudoor",
+		"amount": 157,
+		"value": 60,
+		"weight": 988
+	}, {
+		"name": "mobilTelefonHeavyDuty",
+		"amount": 220,
+		"value": 65,
+		"weight": 1220
+	}, {
+		"name": "tabletBueroKlein",
+		"amount": 620,
+		"value": 40,
+		"weight": 1405
+	}, {
+		"name": "tabletBueroGross",
+		"amount": 250,
+		"value": 40,
+		"weight": 1455
+	}, {
+		"name": "tabletOutdoorKlein",
+		"amount": 540,
+		"value": 45,
+		"weight": 1690
+	}, {
+		"name": "tabletOutdoorGross",
+		"amount": 370,
+		"value": 68,
+		"weight": 1980
+	}],
+	"trucks": [{
+			"name": "Transporter 1",
+			"maxLoad": 1100000
+		},
+		{
+			"name": "Transporter 2",
+			"maxLoad": 1100000
+		}
+	],
+	"drivers": [72400, 85700]
+}
