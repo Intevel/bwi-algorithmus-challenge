@@ -47,9 +47,9 @@
    ```sh
    node index.js
    ```
-3. Install NPM packages
+3. Now you can view the results in the documents folder
    ```sh
-   npm install
+   cd ../documents/
    ```
 </p>
 
