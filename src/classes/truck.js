@@ -1,7 +1,6 @@
 const fs = require("fs")
 var asTable = require('as-table')
 
-
 module.exports = class Truck {
 
 	constructor(name, max) {
@@ -23,8 +22,8 @@ module.exports = class Truck {
 			flags: 'a'
 		})
 		transportPlan.write('\n\nTruck: ' + this.name);
-		transportPlan.write('\nAdditional Load without driver: ' + (this.getWeight()) / 1000 + "KG");
 		transportPlan.write('\nValue of all in the Truck: ' + this.getValue());
+		transportPlan.write('\nWeight of Load ' + (this.getWeight()) / 1000 + "KG");
 		transportPlan.write('\nRemaining Space: ' + (this.max - this.getWeight()) / 1000 + "KG");
 		transportPlan.write("\n\n" + asTable(this.productList) + "\n")
 		console.log(`Done! Look at "documents/${this.name}.txt" to see the results!`)
