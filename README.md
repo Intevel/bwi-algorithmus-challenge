@@ -5,7 +5,7 @@
   </a>
 
   <h3 align="center">BWI ALGORITHMUS CHALLENGE</h3>
-  <p align="center">⚠️ Repository Archived ⚠️<>
+  <p align="center">⚠️ Archived ⚠️<>
   <p align="center">
     This is my project for the BWI Coding Challenge, it is an algorithm that generates a transport plan with the highest utility value.
     <br />
@@ -31,7 +31,7 @@
       ```sh
       npm install
       ```
-          </p>
+        </p>
 
 <h2 align="center">Usage</h3>
 <p align="center">
@@ -50,7 +50,7 @@
       ```sh
       cd ../documents/
       ```
-          </p>
+        </p>
 
 <h2 align="center">License</h3>
 
