@@ -50,6 +50,7 @@
 		"value": 68,
 		"weight": 1980
 	}],
+	"drivers": [72400, 85700],
 	"trucks": [{
 			"name": "Transporter 1",
 			"maxLoad": 1100000
@@ -58,6 +59,5 @@
 			"name": "Transporter 2",
 			"maxLoad": 1100000
 		}
-	],
-	"drivers": [72400, 85700]
+	]
 }
